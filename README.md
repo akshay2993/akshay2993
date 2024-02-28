@@ -30,6 +30,20 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,mui,vscode,github,figma,tailwind,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,mongodb,java,postman,jquery,laravel" />
+  <br/>
+</div>
+
+<br/>
+<hr/>
 <!--
 **akshay2993/akshay2993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
