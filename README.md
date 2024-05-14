@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-<h1 align="center">
+<h1 >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=2296F7&center=true&random=false&width=500&lines=Hi+there👋;I'm+Akshay+Sharma!" alt="Typing SVG" />
   </a>
