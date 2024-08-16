@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently seeking a **Frontend/ ReactJs Developer** role
+ 🔭 I’m currently seeking a **Frontend/ ReactJs Developer/ MERN Developer** role
  
  🌱 I’m currently learning **TypeScript & NodeJS**
 
